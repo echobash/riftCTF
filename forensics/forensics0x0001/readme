@@ -1,0 +1,12 @@
+1. When you'll google,You'll come to know it's aes protected.
+ Since it shows 99 unknown format error.
+
+2. So use zip2John to crack the zip.
+  2.a zip2john flag1.zip > hash
+  2.b john hash --wordlist=~/Desktop/rockyou.txt
+3.After you got the password,
+  run 7z x file1.zip
+  and enter password:- general
+4. Then you'll get the flag.txt
+5. cat flag.txt and it'll give you the flag
+riftCTF{th1s-1S-_JUST--TH3-B3g3nn1ng-BRUH}

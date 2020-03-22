@@ -1,0 +1,1 @@
+i am rick rolled for sure to the imgur image link,but then I though to check the youtube video description again and then all of a sudden my eyes got stuck to the bitly link is has the riftCtfFlag in it
